@@ -1,0 +1,9 @@
+{
+  "name": "My-CoffeeScript-App-on-Heroku",
+  "version": "0.0.1",
+  "main":"./app.coffee",
+  "dependencies": {
+  	"coffee-script": "1.3.3",
+  	"express": "2.5.11"
+  }
+}
